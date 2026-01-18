@@ -20,3 +20,6 @@ The application analyzes the password as the user types and displays strength as
 
 ## Author
 Poojitha Ponnala
+
+## Live Demo
+https://poojitha2295.github.io/password-strength-checker/ 
